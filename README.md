@@ -53,7 +53,7 @@ Publish the website in the LocalHost.
             width: 210mm;
             height: 297mm;
             background-color: #fff;
-            background-image: url('C:/Users/admin/cover/joe/Joey/static/bookcover.png');
+            background-image: url('bookcover.png');
             background-repeat: no-repeat;
             background-position: center;
             background-size: cover;
@@ -139,7 +139,7 @@ Publish the website in the LocalHost.
     </div>
 
     <div class="image-container">
-        <img src="file:///C:/Users/admin/cover/joe/Joey/static/image.png" alt="Your Image">
+        <img src="image.png" alt="Your Image">
     </div>
 </div>
 
@@ -148,7 +148,7 @@ Publish the website in the LocalHost.
 ```
 
 ## OUTPUT:
-
+![alt text](image.png)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
